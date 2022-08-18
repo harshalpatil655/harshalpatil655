@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,redux,javascript**
 
 - 📫 How to reach me **harshalpatil655@gmail.com**
 

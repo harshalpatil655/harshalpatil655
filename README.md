@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "350px" src="https://media-exp1.licdn.com/dms/image/C4E16AQFqs4n9UFgssw/profile-displaybackgroundimage-shrink_350_1400/0/1648965291379?e=1666224000&v=beta&t=5f66zXBH0_t_azIkJCy4Pp9rxlb_zWB6qWWVYDeT_To" alt="cover" />
 </div>
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF2-wU1T00tgQ/profile-displayphoto-shrink_400_400/0/1657361111991?e=1666224000&v=beta&t=l6FdtCUgvq9zXYFFMhoImO3Mq-QFVKp3iV18XG6oIPA" alt="mypic" />
+<img borderRadius="50%" src="https://media-exp1.licdn.com/dms/image/C4D03AQF2-wU1T00tgQ/profile-displayphoto-shrink_400_400/0/1657361111991?e=1666224000&v=beta&t=l6FdtCUgvq9zXYFFMhoImO3Mq-QFVKp3iV18XG6oIPA" alt="mypic" />
 <h1 align="center">Hi 👋, I'm Harshal Hemant Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

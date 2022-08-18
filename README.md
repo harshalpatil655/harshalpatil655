@@ -15,6 +15,8 @@
 /master/src/images/icons/Social/codesandbox.svg" alt="harshalpatil655" height="30" width="40" /></a>
 </p>
 
+<h2>About Me</h2>
+<p>An enthusiastic fresher seeking a career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</p>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/harshalpatil655?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>

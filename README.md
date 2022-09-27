@@ -7,11 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/harshalpatil655" target="blank"><img src="https://img.shields.io/twitter/follow/harshalpatil655?logo=twitter&style=for-the-badge" alt="harshalpatil655" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB,DSA**
-
-- 💬 Ask me about **React,redux,MongoDB**
-
+- 🌱 I’m currently learning **Full stack web development**
+- 💬 Ask me about **react,redux,javascript,express,Mongodb**
 - 📫 How to reach me **harshalpatil655@gmail.com**
+- 👯 I'm always eager to learn and share my learning
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love drive
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

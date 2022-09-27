@@ -17,9 +17,7 @@
 - 
 - ⚡ Fun fact: I love drive
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uObrZovs4oRpJizRWqFg92mbxg_PN7NH/view?usp=sharing](https://drive.google.com/file/d/1uObrZovs4oRpJizRWqFg92mbxg_PN7NH/view?usp=sharing)
-/master/src/images/icons/Social/codesandbox.svg" alt="harshalpatil655" height="30" width="40" /></a>
-</p>
+- 📄 Know about my experiences https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing
 
 <h2>About Me</h2>
 <p>An enthusiastic fresher seeking a career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</p>

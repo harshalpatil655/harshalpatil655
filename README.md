@@ -19,10 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/harshalpatil655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalpatil655" height="30" width="40" /></a>
 <a href="https://twitter.com/harshalpatil655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshalpatil655" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshalpatil655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalpatil655" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harshalpatil655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harshalpatil655" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/harshal patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshalpatil" height="30" width="40" /></a>
+  <a href = 'https://app.netlify.com/teams/harshalpatil655/overview'> <img width = '32px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"/></a> 
+<a href = 'https://github.com/harshalpatil655'> <img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a> 
+
 
 </p>
 

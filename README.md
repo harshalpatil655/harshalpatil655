@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing
 
+<h2>About Me</h2>
+<p>An enthusiastic fresher seeking a career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

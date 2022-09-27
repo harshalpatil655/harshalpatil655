@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **harshalpatil655@gmail.com**
 
+- 👯 I'm always eager to learn and share my learning
+- 
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 
+- ⚡ Fun fact: I love drive
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uObrZovs4oRpJizRWqFg92mbxg_PN7NH/view?usp=sharing](https://drive.google.com/file/d/1uObrZovs4oRpJizRWqFg92mbxg_PN7NH/view?usp=sharing)
 /master/src/images/icons/Social/codesandbox.svg" alt="harshalpatil655" height="30" width="40" /></a>
 </p>

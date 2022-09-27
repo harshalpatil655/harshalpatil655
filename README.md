@@ -33,7 +33,7 @@
 <a href = 'https://www.linkedin.com/in/harshalpatil655/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Harshal Patil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://app.netlify.com/teams/harshalpatil655/overview'> <img width = '32px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"/></a> 
-<a href = 'https://app.netlify.com/teams/harshalpatil655/overview'> <img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a> 
+<a href = 'https://github.com/harshalpatil655'> <img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a> 
 
 
 <h2>Projects I worked on.</h2>

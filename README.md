@@ -46,20 +46,10 @@
  
 <h2 align="left">Projects that i worked on:</h2>
  <h4>1. Bath & Body Works Website Clone</h4>
-      <h5>Project Links</h5>
-      <a href="https://github.com/harshalpatil655">
-        <img
-          width="32px"
-          align="center"
-          src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
-      /></a>
-      <a href="https://app.netlify.com/teams/harshalpatil655/overview">
-        <img
-          width="32px"
-          align="center"
-          src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"
-      /></a>
-      <h4>Tech Stack</h4>
+  <h5>Project Links</h5><a href="https://github.com/harshalpatil655"><img width="32px" align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a>
+<a href="https://app.netlify.com/teams/harshalpatil655/overview">
+<img width="32px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" /></a>
+ <h4>Tech Stack</h4>
       <p>HTML,CSS,JavaScript,React,Redux,Chakra-UI</p>
 <h4>Area of Responsibility:-</h4>
       <ul>

@@ -18,10 +18,6 @@
 <h2>About Me</h2>
 <p>An enthusiastic fresher seeking a career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</p>
 
-<h2>Projects I worked on.</h2>
-<p>I have successfully completed 3 website clones and tried to reflect all functionalities.</p>
-<p>1.Apple-Website-Clone  2.Ssence-Website-Clone 3.Anthropologie-Website-Clone</p>
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/harshalpatil655?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/harshalpatil655?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -37,3 +33,7 @@
 <a href = 'https://www.linkedin.com/in/harshalpatil655/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Harshal Patil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/harshalpatil655'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h2>Projects I worked on.</h2>
+<p>I have successfully completed 3 website clones and tried to reflect all functionalities.</p>
+<p>1.Apple-Website-Clone  2.Ssence-Website-Clone 3.Anthropologie-Website-Clone</p>

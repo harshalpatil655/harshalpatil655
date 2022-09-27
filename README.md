@@ -45,10 +45,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   </p>
  
  <h3>Projects</h3>
- 
- 
- 
-      <h4>1. Bath & Body Works Website Clone</h4>
+ <h4>1. Bath & Body Works Website Clone</h4>
       <h5>Project Links</h5>
       <a href="https://github.com/harshalpatil655">
         <img

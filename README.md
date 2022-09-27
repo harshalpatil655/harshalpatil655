@@ -44,7 +44,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   </p>
  
- <h3>Projects</h3>
+<h2 align="left">Projects that i worked on:</h2>
  <h4>1. Bath & Body Works Website Clone</h4>
       <h5>Project Links</h5>
       <a href="https://github.com/harshalpatil655">
@@ -73,25 +73,24 @@
         </li>
       </ul>
    
-    
-      <h4>2.Anthropologie Website Clone</h4>
-      <h5>Project Links</h5>
-      <a href="https://github.com/harshalpatil655">
+ <h4>2.Anthropologie Website Clone</h4>
+   <h5>Project Links</h5>
+    <a href="https://github.com/harshalpatil655">
         <img
           width="32px"
           align="center"
           src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
       /></a>
-      <a href="https://app.netlify.com/teams/harshalpatil655/overview">
+    <a href="https://app.netlify.com/teams/harshalpatil655/overview">
         <img
           width="32px"
           align="center"
           src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"
       /></a>
-      <h4>Tech Stack</h4>
+    <h4>Tech Stack</h4>
       <p>HTML,CSS,JavaScript,React,Chakra-UI</p>
       <h4>Area of Responsibility:-</h4>
-      <ul>
+    <ul>
         <li>
           Developed the whole website in 4 days during the construction week.
         </li>

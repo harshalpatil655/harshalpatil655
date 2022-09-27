@@ -45,6 +45,66 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   </p>
  
  
+ <div>
+      <h4>1. Bath & Body Works Website Clone</h4>
+      <h5>Project Links</h5>
+      <a href="https://github.com/harshalpatil655">
+        <img
+          width="32px"
+          align="center"
+          src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
+      /></a>
+      <a href="https://app.netlify.com/teams/harshalpatil655/overview">
+        <img
+          width="32px"
+          align="center"
+          src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"
+      /></a>
+      <h4>Tech Stack</h4>
+      <p>HTML,CSS,JavaScript,React,Redux,Chakra-UI</p>
+
+      <h4>Area of Responsibility:-</h4>
+      <ul>
+        <li>Team lead.</li>
+        <li>Developed the shopping page.</li>
+        <li>
+          Implemented functionalities like filtering and sorting products.
+        </li>
+        <li>
+          Also contributed to the frontend part of every part of the website.
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h4>2.Anthropologie Website Clone</h4>
+      <h5>Project Links</h5>
+      <a href="https://github.com/harshalpatil655">
+        <img
+          width="32px"
+          align="center"
+          src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
+      /></a>
+      <a href="https://app.netlify.com/teams/harshalpatil655/overview">
+        <img
+          width="32px"
+          align="center"
+          src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"
+      /></a>
+      <h4>Tech Stack</h4>
+      <p>HTML,CSS,JavaScript,React,Chakra-UI</p>
+      <h4>Area of Responsibility:-</h4>
+      <ul>
+        <li>
+          Developed the whole website in 4 days during the construction week.
+        </li>
+        <li>Performed all the frontend and backend operations.</li>
+        <li>
+          Tried to reflect and enhance the features of the original website.
+        </li>
+      </ul>
+    </div>
+ 
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalpatil655&show_icons=true&locale=en&layout=compact" alt="harshalpatil655" /></p>
 

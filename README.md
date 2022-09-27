@@ -32,7 +32,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/harshalpatil655/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Harshal Patil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/harshalpatil655'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://app.netlify.com/teams/harshalpatil655/overview'> <img width = '32px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"/></a> 
+
 
 <h2>Projects I worked on.</h2>
 <p>I have successfully completed 3 website clones and tried to reflect all functionalities.</p>

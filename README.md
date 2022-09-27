@@ -3,18 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Harshal Hemant Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 - 🌱 I’m currently learning **Full stack web development**
-
-- 💬 Ask me about **react,redux,javascript**
-
+- 💬 Ask me about **react,redux,javascript,express,Mongodb**
 - 📫 How to reach me **harshalpatil655@gmail.com**
-
 - 👯 I'm always eager to learn and share my learning
-- 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 
 - ⚡ Fun fact: I love drive
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing

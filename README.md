@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/harshalpatil655" target="blank"><img src="https://img.shields.io/twitter/follow/harshalpatil655?logo=twitter&style=for-the-badge" alt="harshalpatil655" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack web development**
-- 💬 Ask me about **react,redux,javascript,express,Mongodb**
+- 💬 Ask me about **react,redux,javascript,express,MongoDB**
 - 📫 How to reach me **harshalpatil655@gmail.com**
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2022 Goals: Contribute more to Open Source projects

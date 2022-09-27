@@ -13,8 +13,10 @@
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love drive
+<li> <a href="https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing" >My Resume</a> </li>
+<li> <a href="https://harshalpatilportfolio.netlify.app/" >My Portfolio</a> </li>
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing
+
 
 <h2>About Me</h2>
 <p>An enthusiastic fresher seeking a career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</p>

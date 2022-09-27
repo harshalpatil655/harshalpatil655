@@ -44,8 +44,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   </p>
- 
-<h2 align="left">Projects that i worked on:</h2>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalpatil655&show_icons=true&locale=en&layout=compact" alt="harshalpatil655" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalpatil655&show_icons=true&locale=en" alt="harshalpatil655" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalpatil655&" alt="harshalpatil655" /></p>
+
+
+
+<h2 align="left">Projects that I worked on:</h2>
  <h4>1. Bath & Body Works Website Clone</h4>
   <h5>Project Links</h5><a href="https://github.com/harshalpatil655"><img width="32px" align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a>
 <a href="https://app.netlify.com/teams/harshalpatil655/overview">
@@ -92,10 +101,3 @@
       </ul>
     
  
- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalpatil655&show_icons=true&locale=en&layout=compact" alt="harshalpatil655" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalpatil655&show_icons=true&locale=en" alt="harshalpatil655" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalpatil655&" alt="harshalpatil655" /></p>

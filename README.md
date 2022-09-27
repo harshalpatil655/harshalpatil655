@@ -61,8 +61,7 @@
       /></a>
       <h4>Tech Stack</h4>
       <p>HTML,CSS,JavaScript,React,Redux,Chakra-UI</p>
-
-      <h4>Area of Responsibility:-</h4>
+<h4>Area of Responsibility:-</h4>
       <ul>
         <li>Team lead.</li>
         <li>Developed the shopping page.</li>

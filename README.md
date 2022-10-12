@@ -54,50 +54,6 @@
 
 
 
-<h2 align="left">Projects that I worked on:</h2>
- <h4>1. Bath & Body Works Website Clone</h4>
-  <h5>Project Links</h5><a href="https://github.com/harshalpatil655"><img width="32px" align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/></a>
-<a href="https://app.netlify.com/teams/harshalpatil655/overview">
-<img width="32px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" /></a>
- <h4>Tech Stack</h4>
-      <h4>HTML,CSS,JavaScript,React,Redux,Chakra-UI</h4>
-<h4>Area of Responsibility:-</h4>
-      <ul>
-        <li>Team lead.</li>
-        <li>Developed the shopping page.</li>
-        <li>
-          Implemented functionalities like filtering and sorting products.
-        </li>
-        <li>
-          Also contributed to the frontend part of every part of the website.
-        </li>
-      </ul>
-   
- <h4>2.Anthropologie Website Clone</h4>
-   <h5>Project Links</h5>
-    <a href="https://github.com/harshalpatil655">
-        <img
-          width="32px"
-          align="center"
-          src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
-      /></a>
-    <a href="https://app.netlify.com/teams/harshalpatil655/overview">
-        <img
-          width="32px"
-          align="center"
-          src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png"
-      /></a>
-    <h4>Tech Stack</h4>
-      <h4>HTML,CSS,JavaScript,React,Chakra-UI</h4>
-      <h4>Area of Responsibility:-</h4>
-    <ul>
-        <li>
-          Developed the whole website in 4 days during the construction week.
-        </li>
-        <li>Performed all the frontend and backend operations.</li>
-        <li>
-          Tried to reflect and enhance the features of the original website.
-        </li>
-      </ul>
+
     
  

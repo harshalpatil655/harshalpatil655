@@ -12,8 +12,8 @@
 - 📫 How to reach me **harshalpatil655@gmail.com**
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love drive
-<li> <a href="https://drive.google.com/file/d/1KPzLrG6EDAAO0JOlsxUwoSUhLjiYgMPK/view?usp=sharing" >My Resume</a> </li>
+- ⚡ Fun fact: I love to drive
+<li> <a href="https://drive.google.com/file/d/18I7KCXyGE-AbRyfnLLx611ISHzOz53oi/view?usp=share_link" >My Resume</a> </li>
 <li> <a href="https://harshalpatilportfolio.netlify.app/" >My Portfolio</a> </li>
 
 

@@ -13,6 +13,7 @@
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drive
+- <li> <a href="https://www.starkenn.com/" >Starkenn Technologies</a> </li>
 <li> <a href="https://drive.google.com/file/d/18I7KCXyGE-AbRyfnLLx611ISHzOz53oi/view?usp=share_link" >My Resume</a> </li>
 <li> <a href="https://harshalpatilportfolio.netlify.app/" >My Portfolio</a> </li>
 
@@ -20,7 +21,7 @@
 
 <h2>About Me</h2>
 <p>Greetings! I'm Harshal Patil, an energetic and dedicated Full Stack Developer based in Pune, Maharashtra, India. Currently, I channel my expertise into Starkenn Technologies, where I contribute to the creation and maintenance of robust web applications. My specialization lies in ReactJS, NodeJS, MySQL, MongoDB, and AWS Serverless, allowing me to bring a wealth of experience to the table when it comes to delivering innovative software solutions.
-
+ 
 In my pivotal role at Starkenn Technologies, I am deeply immersed in crafting and sustaining high-performance web applications. Proficient in Amazon Web Services (AWS), Docker, Continuous Integration (CI), Continuous Delivery (CD), and a range of front-end and back-end technologies, I consistently drive impactful results, surpassing project goals and expectations.
 
 My journey in the IT industry commenced as a Trainee Engineer, where I fine-tuned my skills with the MERN stack. Fueling my commitment to excellence, I undertook a comprehensive Full Stack Web Development Course at Masai, gaining hands-on experience and a robust foundation in cutting-edge web development technologies.
